@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: srinivas5899/liveimages:zomato
+        image: srinivas5899/dock_prac:zomato
         ports:
         - containerPort: 3000   # Use port 3000
 
